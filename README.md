@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tennel_Cheshire_proof.png/330px-Tennel_Cheshire_proof.png" alt="John Tenniel's 1865 illustration of Lewis Carroll's Cheshire Cat">
+<!-- <img src="upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tennel_Cheshire_proof.png/330px-Tennel_Cheshire_proof.png" alt="John Tenniel's 1865 illustration of Lewis Carroll's Cheshire Cat"> -->
 
 <!---
 indio-ferrel/indio-ferrel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
