@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning JavaScript.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on learning JavaScript.
-- 📫 How to reach me ... in the Slacks and the Zooms of the class.
+- 📫 mferrel1911@gmail.com.
 
 <!--
 <img src="upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tennel_Cheshire_proof.png/330px-Tennel_Cheshire_proof.png" alt="John Tenniel's 1865 illustration of Lewis Carroll's Cheshire Cat">
